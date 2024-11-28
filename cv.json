@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Sergio Vargas Sánchez",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "label":" " 
+    "image": "",
+    "email": "sergiovargas45@gmail.com",
+    "phone": "+34 621007682",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "I am an active, creative, committed, and confident person with a strong work ethic and a passion for providing excellent customer service. I easily adapt to new environments and enjoy working as part of a team to achieve common goals. My creativity helps me find innovative solutions to problems, and my commitment and confidence in my abilities ensure consistent and reliable performance.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "Fernando de Rojas",
+      "postalCode": "41510",
+      "city": "Seville",
       "countryCode": "ES",
       "region": "Spain"
     },
@@ -230,7 +230,7 @@
     {
       "name": "mars.codes",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Spaceship game, traveling through the Milky Way ",
       "highlights": [
         "Choose your own adventure",
         "In progress"
