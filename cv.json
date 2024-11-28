@@ -34,25 +34,25 @@
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
+      "name": "GAME",
+      "position": "Cashier and replenisher",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "startDate": "2023-06-01",
+      "endDate":"2023-08-01",
+      "summary": "I had various roles in the company, such as restocking video games, consoles, merchandise, and working at the cash register ,  for two months from June to August 2023.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     },
     {
@@ -68,10 +68,10 @@
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
-      "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "name": "",
+      "type": "",
+      "url": "",
+      "position": "",
       "contact": [
         "Phone: +34611223345",
         "Email: VY5q8@example.com"
@@ -89,24 +89,24 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
+    "organization": "Environmental Volunteering",
     "position": "Volunteer",
     "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "startDate": "2022-07-01",
+    "endDate": "",
+    "summary": "Participated in beach clean-up initiatives in Zahara de los Atunes, contributing to environmental conservation and developing a strong sense of ecological responsibility and teamwork.",
     "highlights": [
       "Awarded 'Volunteer of the Month'"
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "First year of the Advanced DAM course ",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "area": "DAM",
+    "studyType": "Higher degree",
+    "startDate": "2023-09-20",
+    "endDate": "2024-05-20",
+    "score": "7.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
@@ -118,9 +118,9 @@
     "summary": "There is no spoon."
   }],
   "certificates": [{
-    "name": "Certificate",
+    "name": "English Certificate",
     "date": "2021-11-07",
-    "issuer": "Company",
+    "issuer": "Oxford",
     "url": "https://certificate.com"
   }],
   "publications": [{
